@@ -7,6 +7,7 @@
 * Add go1.10.2 and go1.9.6
 * Default to go1.10.2
 * go1.10 expands to go1.10.2 and go1.9 expands to go1.9.6
+* GOCACHE support
 
 ## v86 (2018-04-17)
 
